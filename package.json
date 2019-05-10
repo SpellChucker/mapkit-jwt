@@ -1,0 +1,14 @@
+{
+  "name": "mapkit-jwt",
+  "version": "1.0.0",
+  "main": "gen.js",
+  "repository": "git@github.com:SpellChucker/mapkit-jwt.git",
+  "author": "Todd Vrba <todd.vrba@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "generate": "node gen.js"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
